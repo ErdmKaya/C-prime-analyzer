@@ -33,6 +33,7 @@ primeanalyzer.exe
 
 # Linux/macOS:
 ./primeanalyzer
+```
 
 #           EXAMPLE OUTPUT
 # Enter a positive integer (0 to exit): 72
