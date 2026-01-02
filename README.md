@@ -34,7 +34,7 @@ primeanalyzer.exe
 # Linux/macOS:
 ./primeanalyzer
 ```
-
+```text
 #           EXAMPLE OUTPUT
 # Enter a positive integer (0 to exit): 72
 # >> 72 is NOT a prime number.
@@ -42,3 +42,4 @@ primeanalyzer.exe
 #
 # Enter a positive integer (0 to exit): 13
 # >> 13 is a prime number.
+```
