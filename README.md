@@ -37,10 +37,10 @@ primeanalyzer.exe
 ## Example Output
 
 ```text
-#       EXAMPLE OUTPUT
-# Enter a positive integer (0 to exit): 72
-# >> 72 is NOT a prime number.
-# >> Prime Factors: 2^3 x 3^2
-#
-# Enter a positive integer (0 to exit): 13
-# >> 13 is a prime number.
+       EXAMPLE OUTPUT
+ Enter a positive integer (0 to exit): 72
+ >> 72 is NOT a prime number.
+ >> Prime Factors: 2^3 x 3^2
+
+ Enter a positive integer (0 to exit): 13
+ >> 13 is a prime number.
